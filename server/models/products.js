@@ -49,8 +49,9 @@ const ProductSchema = new Schema(
                 date: { type: Date, requied: true },
                 units: { type: Number, requied: true }
             },{ requied: false }
-        ]
-    },{timestamps: true, autoIndex: true}
+        ],
+        __q : { type: Number, requied: true }
+    },{timestamps: true, autoIndex: true }
 );
 
 
