@@ -1,0 +1,43 @@
+{
+	"first_name": "",
+	"last_name": "",
+	"nick_name": "",
+	"tax_type": "",
+	"tax_code": "",
+	"emails": [
+		{
+			"verified": false,
+			"email": ""
+		}
+	],
+	"addresses": [
+		{
+			
+			"contact": "",
+			"street": "",
+			"city": "",
+			"province": "",
+			"zip": ""
+		}
+	],
+	"phones": [
+		{
+			
+			"phone_type": "",
+			"prefix": "",
+			"number": "",
+			"subfix": "",
+			"memo": ""
+		}
+	],
+	"payment_cards": [
+		{
+			
+			"card_name": "",
+			"card_number": "",
+			"expiry_date": "",
+			"zip": ""
+		}
+	],
+	"__q" : 0
+}
