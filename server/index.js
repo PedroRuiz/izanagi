@@ -52,6 +52,8 @@ app.use(cors({
  * R O U T E S
  */
 app.use(`${URL_version}/clients`, require('./routes/clients.routes'));
+app.use(`${URL_version}/products`, require('./routes/products.routes'));
+
 
 
 /**
